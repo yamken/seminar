@@ -26,6 +26,6 @@
     2. Steemit — социальная сеть, основанная на блокчейне.
     1|2
     ---|:---:
-    Разработчик | Джон Грубер
-    Опубликован | 2004-03-19
-    Сайтhttps://daringfireball.net/projects/markdown/https://daringfireball.net/projects/markdown/
+    Разработчик|Джон Грубер
+    Опубликован|2004-03-19
+    Сайт|https://daringfireball.net/projects/markdown/https://daringfireball.net/projects/markdown/
