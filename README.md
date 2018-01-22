@@ -27,6 +27,7 @@
 ###
     1|2
     ---|:---:
-    Разработчик|Джон Грубер
-    Опубликован|2004-03-19
-    Сайт|https://daringfireball.net/projects/markdown/
+    Разработчик | Джон Грубер
+    Опубликован | 2004-03-19
+    Сайт        | https://daringfireball.net/projects/markdown/
+####
