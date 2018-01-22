@@ -24,3 +24,8 @@
 5. Социальные приложения: 
     1. Discord — приложение для публичного общения.
     2. Steemit — социальная сеть, основанная на блокчейне.
+    1|2
+    ---|:---:
+    Разработчик | Джон Грубер
+    Опубликован | 2004-03-19
+    Сайтhttps://daringfireball.net/projects/markdown/https://daringfireball.net/projects/markdown/
